@@ -1,4 +1,4 @@
-## Oi, eu sou Matheus | 👨🏻‍💻 Desenvolvedor Front End
+## Oi, eu sou Matheus | 👨🏻‍💻 Desenvolvedor de Software
 
 ## Sobre mim
 🎓 Estudante de análise e desenvolvimento de sistemas na Universidade Santa Cecília
