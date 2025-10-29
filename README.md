@@ -31,10 +31,12 @@
     - Banco de dados
     - Linux
     - Apache netbeans
+    - Photopea
 
 
     ## Pretendo estudar no futuro
     - Phyton
     - C++
     - Three.js
+      
       
