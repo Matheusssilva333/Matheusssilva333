@@ -26,6 +26,7 @@
     ##  linguagens, tecnologias e ferramentas que estou estudando no momento
     - Java
     - Spring AI
+    - Deeplearning4j
     - Inteligência artificial
     - Banco de dados
     - Linux
