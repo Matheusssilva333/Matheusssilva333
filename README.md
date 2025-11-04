@@ -29,9 +29,8 @@
     - Deeplearning4j
     - Inteligência artificial
     - Banco de dados
-    - Linux
+    - React
     - Apache netbeans
-    - Photopea
 
 
     ## Pretendo estudar no futuro
