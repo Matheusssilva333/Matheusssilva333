@@ -29,9 +29,9 @@
     - Deeplearning4j
     - Inteligência artificial
     - Banco de dados
-    - React
     - Apache netbeans
-
+    - Javascript
+    - React
 
     ## Pretendo estudar no futuro
     - Phyton
