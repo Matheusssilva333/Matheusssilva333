@@ -18,24 +18,23 @@
 - HTML
 - CSS
 
-
   ## Áreas de atuação
   - Desenvolvimento Web
   - Automação e Inteligência artificial
 
     ##  linguagens, tecnologias e ferramentas que estou estudando no momento
+    - Phyton
+    - Pygame
+    - Automação e Inteligência Artificial
     - Java
     - Spring AI
     - Deeplearning4j
-    - Inteligência artificial
     - Banco de dados
-    - Apache netbeans
-    - Javascript
-    - React
 
     ## Pretendo estudar no futuro
-    - Phyton
-    - C++
-    - Three.js
+  - C++
+  - Numpy
+  - Three.js
+
       
       
