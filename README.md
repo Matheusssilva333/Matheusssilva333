@@ -24,11 +24,10 @@
 
     ##  linguagens, tecnologias e ferramentas que estou estudando no momento
     - Phyton
-    - Pygame
-    - Pandas
-    - Automação e Inteligência Artificial
+    - Power Bi
+    - N8N
     - Java
-    - Spring AI
+    - Inteligência artificial e Machine learning
     - Deeplearning4j
     - Banco de dados
 
