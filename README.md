@@ -28,7 +28,6 @@
     - N8N
     - Java
     - Inteligência artificial e Machine learning
-    - Deeplearning4j
     - Banco de dados
 
     ## Pretendo estudar no futuro
