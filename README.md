@@ -33,6 +33,7 @@
     ## Pretendo estudar no futuro
   - C++
   - Numpy
+  - Pandas
   - Three.js
 
       
