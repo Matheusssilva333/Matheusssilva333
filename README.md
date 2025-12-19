@@ -19,12 +19,11 @@
 - CSS
 
   ## Áreas de atuação
-  - Desenvolvimento Web
-  - Automação e Inteligência artificial
+    - Automação e Inteligência artificial
+    - Machine learning
 
     ##  linguagens, tecnologias e ferramentas que estou estudando no momento
     - Phyton
-    - Power Bi
     - N8N
     - Java
     - Inteligência artificial e Machine learning
@@ -34,7 +33,6 @@
   - C++
   - Numpy
   - Pandas
-  - Three.js
 
       
       
