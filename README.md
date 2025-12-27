@@ -17,6 +17,7 @@
 - Javascript
 - HTML
 - CSS
+- Lovable
 
   ## Áreas de atuação
     - Automação e Inteligência artificial
@@ -24,15 +25,6 @@
 
     ##  linguagens, tecnologias e ferramentas que estou estudando no momento
     - Phyton
-    - N8N
-    - Java
+    - Docker
     - Inteligência artificial e Machine learning
     - Banco de dados
-
-    ## Pretendo estudar no futuro
-  - C++
-  - Numpy
-  - Pandas
-
-      
-      
