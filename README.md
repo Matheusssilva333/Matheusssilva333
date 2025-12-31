@@ -18,7 +18,7 @@
 - Javascript
 - HTML
 - CSS
-- Lovable
+  
 
   ## Áreas de atuação
     - Automação e Inteligência artificial
