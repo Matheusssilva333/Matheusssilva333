@@ -13,6 +13,7 @@
 
 
 ## Habilidades
+- Python
 - Java
 - Javascript
 - HTML
@@ -24,7 +25,7 @@
     - Machine learning
 
     ##  linguagens, tecnologias e ferramentas que estou estudando no momento
-    - Phyton
+    - Python
     - Docker
     - Inteligência artificial e Machine learning
     - Banco de dados
