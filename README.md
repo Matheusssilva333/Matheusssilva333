@@ -27,5 +27,5 @@
     ##  linguagens, tecnologias e ferramentas que estou estudando no momento
     - Python
     - Flask
-    - Inteligência artificial e Machine learning
+    - Supabase
     - Banco de dados
