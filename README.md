@@ -18,6 +18,10 @@
 - Javascript
 - HTML
 - CSS
+- Engenharia de Prompt
+- Supabase
+- Google Antigravity
+- Lovable
   
 
   ## Áreas de atuação
