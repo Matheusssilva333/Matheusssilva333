@@ -23,7 +23,7 @@
   ## Áreas de atuação
     - Automação e Inteligência artificial
     - Machine learning
-
+  
     ##  linguagens, tecnologias e ferramentas que estou estudando no momento
     - Python
     - Flask
