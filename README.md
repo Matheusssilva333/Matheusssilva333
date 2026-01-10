@@ -33,3 +33,5 @@
     - Flask
     - Supabase
     - Banco de dados
+    - Google Antigravity
+    - Lovable
