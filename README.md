@@ -20,8 +20,7 @@
 - CSS
 - Engenharia de Prompt
 - Supabase
-- Google Antigravity
-- Lovable
+
   
 
   ## Áreas de atuação
@@ -33,5 +32,4 @@
     - Flask
     - Supabase
     - Banco de dados
-    - Google Antigravity
-    - Lovable
+   
