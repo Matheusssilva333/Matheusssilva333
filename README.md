@@ -18,8 +18,6 @@
 - Javascript
 - HTML
 - CSS
-- Engenharia de Prompt
-- Supabase
 
   
 
