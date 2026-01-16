@@ -28,6 +28,6 @@
     ##  linguagens, tecnologias e ferramentas que estou estudando no momento
     - Python
     - Flask
-    - Supabase
     - Banco de dados
+    - SQL
    
