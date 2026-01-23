@@ -1,7 +1,7 @@
 ## Oi, eu sou Matheus | 👨🏻‍💻 Desenvolvedor de Software
 
 ## Sobre mim
-🎓 Estudante de análise e desenvolvimento de sistemas na Universidade Santa Cecília
+🎓 Graduando em análise e desenvolvimento de sistemas na Universidade Santa Cecília
 
 🧠  Eu amo estudar assuntos de Tecnologia e Teologia
 
