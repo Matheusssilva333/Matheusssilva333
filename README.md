@@ -18,6 +18,8 @@
 - Javascript
 - HTML
 - CSS
+- SQL
+- Banco de dados
 
   
 
@@ -30,5 +32,6 @@
     - Flask
     - Banco de dados
     - SQL
+    - Inteligência artificial
 
   
