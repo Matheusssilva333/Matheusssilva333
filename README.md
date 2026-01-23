@@ -14,6 +14,7 @@
 
 ## Habilidades
 - Python
+- Inteligência artificial
 - Java
 - Javascript
 - HTML
