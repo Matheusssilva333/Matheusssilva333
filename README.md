@@ -3,7 +3,7 @@
 ## Sobre mim
 🎓 Estudante de análise e desenvolvimento de sistemas na Universidade Santa Cecília
 
-🧠  Eu amo estudar assuntos de Tecnologia, Filosofia e Teologia
+🧠  Eu amo estudar assuntos de Tecnologia e Teologia
 
 🏋️ Gosto de treinar para manter meu corpo e mente saudáveis e considero isso uma área importante do meu crescimento pessoal
 
