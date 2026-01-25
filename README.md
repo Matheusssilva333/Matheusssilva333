@@ -21,7 +21,6 @@
 ### 🧠 Skill Distribution (Core Stack)
 
 #### 🤖 Inteligência Artificial — **40%**
-![AI](https://img.shields.io/badge/IA-████████████████████-8A2BE2?style=for-the-badge)
 
 - Agentes de IA  
 - LLMs e Prompt Engineering  
