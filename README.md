@@ -1,109 +1,77 @@
-<h2 align="left">
-👋 Hi, my name is Matheus Silva — AI Developer focused on Intelligent Agents
-</h2>
+PinnedLoading
+ IA-de-Consultoria-de-Marketing-Digital Public
 
-<p align="left">
-🧠 Building <b>AI Agents</b>, intelligent automations and applied AI systems.<br>
-☕ Strong backend mindset with <b>Java</b> and <b>Python</b>.<br>
-🚀 Goal: scalable AI products that solve real problems.
-</p>
+ Java
 
-<img align="right" height="180" 
-src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+ Calculadora-Industrial Public
 
----
+ JavaScript  3
 
-## 📊 GitHub Activity
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Matheusssilva333&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-    height="160"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusssilva333&layout=compact&theme=dracula"
-    height="160"
-  />
-</div>
+ ShopeeAds-Manager Public
 
----
+ Python
 
-## 🧠 Core Skill Distribution
+ Calculadora-de-precos-de-imoveis Public
 
-### 🤖 Artificial Intelligence — **40%**
-<img src="https://progress-bar.dev/40/?title=AI%20%26%20Agents&color=8A2BE2"/>
+ HTML
 
-- AI Agents architecture  
-- Prompt Engineering  
-- LLM integration  
-- Intelligent automation  
+ Radar-de-monitoramento-rastreamento-e-controle-de-drone-de-resgate Public
+Página oficial do sistema
 
----
+ HTML
 
-### ☕ Java — **25%**
-<img src="https://progress-bar.dev/25/?title=Java&color=ED8B00"/>
+ Aplicacao-Mercado-Livre Public
 
-- Backend development  
-- OOP & clean architecture  
-- AI system integration  
+ Python
 
----
-
-### 🐍 Python — **25%**
-<img src="https://progress-bar.dev/25/?title=Python&color=3776AB"/>
-
-- AI pipelines  
-- Automation scripts  
-- Fast prototyping  
-
----
-
-### 🗄️ SQL & Databases — **7%**
-<img src="https://progress-bar.dev/7/?title=SQL%20%26%20DB&color=4479A1"/>
-
-- Data modeling  
-- Queries  
-- Persistence  
-
----
-
-### 🌐 JavaScript & Web — **3%**
-<img src="https://progress-bar.dev/3/?title=JavaScript&color=F7DF1E"/>
-
-- Basic frontend  
-- Web integrations  
-
----
-
-## 🛠️ Tech Stack
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34"/>
-  <img width="14"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34"/>
-  <img width="14"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34"/>
-  <img width="14"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34"/>
-</div>
-
----
-
-## 🌐 Connect with me
-<div align="left">
-  <a href="https://www.youtube.com/@MatheusDesenvolvedor-x2s" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-IA%20%26%20Code-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/matheus-silva-0b177b333" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Silva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Matheusssilva333" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Matheusssilva333-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
-
----
-
-<br clear="both">
-
-<img 
-src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" 
-alt="Contribution Snake Animation"/>
+475 contributions in the last year
+Skip to contributions year list
+Contribution Graph
+Day of Week	FebruaryFeb	MarchMar	AprilApr	MayMay	JuneJun	JulyJul	AugustAug	SeptemberSep	OctoberOct	NovemberNov	DecemberDec	JanuaryJan
+SundaySun																																																					
+MondayMon																																																					
+TuesdayTue																																																					
+WednesdayWed																																																					
+ThursdayThu																																																					
+FridayFri																																																					
+SaturdaySat																																																					
+Learn how we count contributions
+Less
+No contributions.
+Low contributions.
+Medium-low contributions.
+Medium-high contributions.
+High contributions.
+More
+ @digitalinnovationone
+Activity overview
+Contributed to Matheusssilva333/Projeto-de-Streaming, Matheusssilva333/Aplicacao-Mercado-Livre, Matheusssilva333/ShopeeAds-Manager and 30 other repositories
+Loading
+ 
+Code review
+ 
+Issues
+2%
+Pull requests
+98%
+Commits
+Contribution activity
+January 2026
+ Matheusssilva333/IA-de-Consultoria-de-Mark...
+ Java
+This contribution was made on Jan 24Jan 24
+ Matheusssilva333/Calculadora-de-Emissao-de...
+This contribution was made on Jan 21Jan 21
+ Matheusssilva333/ShopeeAds-Manager
+ Python
+This contribution was made on Jan 17Jan 17
+ Matheusssilva333/Aplicacao-Mercado-Livre
+ Python
+This contribution was made on Jan 16Jan 16
+ Matheusssilva333/Radar-de-monitoramento-ra...
+ HTML
+This contribution was made on Jan 12Jan 12
+ Matheus
+This contribution was made on Jan 3Jan 3
+Loading
+Seeing something unexpected? Take 
