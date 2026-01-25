@@ -5,120 +5,88 @@
 <p align="left">
 🧠 Building <b>AI Agents</b>, intelligent automations and applied AI systems.<br>
 ☕ Strong backend mindset with <b>Java</b> and <b>Python</b>.<br>
-📦 Experience with real-world projects in AI, automation, pricing systems and digital platforms.<br>
+📦 Hands-on experience with real projects in AI consulting, automation and marketplaces.<br>
 🚀 Goal: scalable AI products that solve real problems.
 </p>
 
-<img align="right" height="180"
-src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-
 ---
 
-## 📊 GitHub Activity
 <div align="center">
-  <img 
+  <img
     src="https://github-readme-stats.vercel.app/api?username=Matheusssilva333&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-    height="160"
+    height="150"
+    alt="GitHub stats"
   />
-  <img 
+  <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusssilva333&layout=compact&theme=dracula"
-    height="160"
+    height="150"
+    alt="Top languages"
   />
 </div>
 
 <p align="center">
-<b>475 contributions in the last year</b> • High commit frequency • Real project delivery
+<b>475 contributions in the last year</b> • High commit consistency • Real-world projects
 </p>
 
 ---
 
-## 🧠 Core Skill Distribution (Based on Real Projects)
+## 🧠 Core Skill Distribution (Real Usage)
 
-### 🤖 Artificial Intelligence — **40%**
-<img src="https://progress-bar.dev/40/?title=AI%20%26%20Agents&color=8A2BE2"/>
-
-- AI agents architecture  
-- Applied AI systems  
-- Prompt engineering  
+### 🤖 Artificial Intelligence — 40%
+- AI Agents architecture  
+- Prompt Engineering  
+- LLM integration  
 - Intelligent automation  
 
-(Used in projects like **IA-de-Consultoria-de-Marketing-Digital**)
-
 ---
 
-### ☕ Java — **25%**
-<img src="https://progress-bar.dev/25/?title=Java&color=ED8B00"/>
-
+### ☕ Java — 25%
 - Backend development  
 - OOP & clean architecture  
-- Industrial and business logic systems  
-
-(Ex: **Calculadora-Industrial**, AI consulting systems)
+- Business and industrial systems  
 
 ---
 
-### 🐍 Python — **25%**
-<img src="https://progress-bar.dev/25/?title=Python&color=3776AB"/>
-
+### 🐍 Python — 25%
 - Automation scripts  
 - AI pipelines  
-- Data processing  
-
-(Ex: **ShopeeAds-Manager**, **Aplicacao-Mercado-Livre**)
+- Marketplace integrations  
 
 ---
 
-### 🗄️ SQL & Databases — **7%**
-<img src="https://progress-bar.dev/7/?title=SQL%20%26%20Databases&color=4479A1"/>
-
+### 🗄️ SQL & Databases — 7%
 - Data modeling  
-- Business rules persistence  
-- Query optimization  
+- Queries  
+- Persistence  
 
 ---
 
-### 🌐 JavaScript & Web — **3%**
-<img src="https://progress-bar.dev/3/?title=Web%20Dev&color=F7DF1E"/>
-
+### 🌐 JavaScript & Web — 3%
 - Web interfaces  
-- Frontend support  
-- HTML/CSS integration  
-
-(Ex: **Radar de Monitoramento de Drone**, pricing systems)
+- HTML/CSS support  
 
 ---
 
-## 📌 Pinned Projects (Real Work)
+## 📌 Selected Projects
 
 - **IA-de-Consultoria-de-Marketing-Digital** — Java  
-  AI system for digital marketing consulting  
-
 - **Calculadora-Industrial** — JavaScript  
-  Industrial calculation and logic system  
-
 - **ShopeeAds-Manager** — Python  
-  Automation and ads management system  
-
 - **Calculadora-de-precos-de-imoveis** — HTML  
-  Real estate pricing logic  
-
 - **Radar-de-monitoramento-rastreamento-e-controle-de-drone-de-resgate** — HTML  
-  Monitoring and tracking system (official project page)  
-
 - **Aplicacao-Mercado-Livre** — Python  
-  Marketplace automation and integration  
 
 ---
 
 ## 🛠️ Tech Stack
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34"/>
-  <img width="14"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34"/>
-  <img width="14"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34"/>
-  <img width="14"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32"/>
 </div>
 
 ---
@@ -135,8 +103,6 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 ---
 
-<br clear="both">
-
-<img 
-src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" 
+<img
+src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
 alt="Contribution Snake Animation"/>
