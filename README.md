@@ -1,86 +1,96 @@
-<h2 align="left">Hi 👋! My name is Matheus Silva and I'm an AI Developer focused on AI Agents</h2>
+<h2 align="left">
+👋 Hi, my name is Matheus Silva — AI Developer focused on Intelligent Agents
+</h2>
 
 <p align="left">
-🎯 Foco atual: Construção de <b>Agentes de Inteligência Artificial</b>, automações inteligentes e produtos SaaS baseados em IA.<br>
-🧠 Background técnico sólido em Java, Python e fundamentos de engenharia de software.<br>
-🚀 Objetivo: criar produtos escaláveis usando IA aplicada ao mundo real.
+🧠 Building <b>AI Agents</b>, intelligent automations and applied AI systems.<br>
+☕ Strong backend mindset with <b>Java</b> and <b>Python</b>.<br>
+🚀 Goal: scalable AI products that solve real problems.
 </p>
 
+<img align="right" height="180" 
+src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matheusssilva333&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusssilva333&layout=compact&theme=dracula" height="150"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Matheusssilva333&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    height="160"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusssilva333&layout=compact&theme=dracula"
+    height="160"
+  />
 </div>
 
 ---
 
-<img align="right" height="160" src="https://i.imgflip.com/65efzo.gif"/>
+## 🧠 Core Skill Distribution
 
-### 🧠 Skill Distribution (Core Stack)
+### 🤖 Artificial Intelligence — **40%**
+<img src="https://progress-bar.dev/40/?title=AI%20%26%20Agents&color=8A2BE2"/>
 
-#### 🤖 Inteligência Artificial — **40%**
-
-- Agentes de IA  
-- LLMs e Prompt Engineering  
-- Automação inteligente  
-- Arquitetura de agentes  
-
----
-
-#### ☕ Java — **25%**
-![Java](https://img.shields.io/badge/Java-███████████████-ED8B00?style=for-the-badge)
-
-- Backend  
-- POO e arquitetura  
-- Integração com IA  
+- AI Agents architecture  
+- Prompt Engineering  
+- LLM integration  
+- Intelligent automation  
 
 ---
 
-#### 🐍 Python — **25%**
-![Python](https://img.shields.io/badge/Python-███████████████-3776AB?style=for-the-badge)
+### ☕ Java — **25%**
+<img src="https://progress-bar.dev/25/?title=Java&color=ED8B00"/>
 
-- IA e automações  
-- Scripts e pipelines  
-- Prototipação rápida  
-
----
-
-#### 🗄️ SQL & Bancos de Dados — **7%**
-![SQL](https://img.shields.io/badge/SQL-█████-4479A1?style=for-the-badge)
-
-- Modelagem  
-- Consultas  
-- Persistência de dados  
+- Backend development  
+- OOP & clean architecture  
+- AI system integration  
 
 ---
 
-#### 🌐 JavaScript & Web Dev — **3%**
-![JS](https://img.shields.io/badge/JavaScript-██-F7DF1E?style=for-the-badge)
+### 🐍 Python — **25%**
+<img src="https://progress-bar.dev/25/?title=Python&color=3776AB"/>
 
-- Frontend básico  
-- Integração web  
+- AI pipelines  
+- Automation scripts  
+- Fast prototyping  
 
 ---
 
-### 🛠️ Tecnologias
+### 🗄️ SQL & Databases — **7%**
+<img src="https://progress-bar.dev/7/?title=SQL%20%26%20DB&color=4479A1"/>
+
+- Data modeling  
+- Queries  
+- Persistence  
+
+---
+
+### 🌐 JavaScript & Web — **3%**
+<img src="https://progress-bar.dev/3/?title=JavaScript&color=F7DF1E"/>
+
+- Basic frontend  
+- Web integrations  
+
+---
+
+## 🛠️ Tech Stack
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34"/>
 </div>
 
 ---
 
-### 🌐 Conecte-se comigo
+## 🌐 Connect with me
 <div align="left">
   <a href="https://www.youtube.com/@MatheusDesenvolvedor-x2s" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-IA%20e%20Programação-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-IA%20%26%20Code-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/matheus-silva-0b177b333" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Silva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -94,4 +104,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img 
+src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" 
+alt="Contribution Snake Animation"/>
