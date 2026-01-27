@@ -63,20 +63,8 @@
 
 ### 🌐 JavaScript & Web — 3%
 - Web interfaces  
-- HTML/CSS support  
-
----
-
-## 📌 Selected Projects
-
-- **IA-de-Consultoria-de-Marketing-Digital** — Java  
-- **Calculadora-Industrial** — JavaScript  
-- **ShopeeAds-Manager** — Python  
-- **Calculadora-de-precos-de-imoveis** — HTML  
-- **Radar-de-monitoramento-rastreamento-e-controle-de-drone-de-resgate** — HTML  
-- **Aplicacao-Mercado-Livre** — Python  
-
----
+- HTML/CSS support
+- 
 
 ## 🛠️ Tech Stack
 <div align="left">
