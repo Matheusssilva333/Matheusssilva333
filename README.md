@@ -64,7 +64,7 @@
 ### 🌐 JavaScript & Web — 3%
 - Web interfaces  
 - HTML/CSS support
-- 
+- Javascript
 
 ## 🛠️ Tech Stack
 <div align="left">
