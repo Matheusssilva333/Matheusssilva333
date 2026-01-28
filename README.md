@@ -1,12 +1,13 @@
 <h2 align="left">
-👋 Hi, I'm Matheus Silva — AI Engineer focused on Intelligent Agents & Automation
+👋 Hi, I'm Matheus Silva — Machine Learning Engineering Student focused on AI Systems
 </h2>
 
 <p align="left">
-🧠 Designing and building <b>AI Agents</b>, intelligent automations and applied AI systems.<br>
-☕ Strong backend mindset with <b>Java</b> and <b>Python</b>.<br>
-📦 Hands-on experience delivering real-world solutions: AI consulting, automation pipelines and marketplaces.<br>
-🚀 Focused on scalable AI products that solve real business problems.
+🎓 Student of <b>Systems Analysis and Development</b>, specializing in <b>Machine Learning Engineering</b>.<br>
+🧠 Building and studying <b>machine learning systems</b>, AI agents and intelligent automations.<br>
+☕ Strong backend foundation with <b>Java</b> and <b>Python</b>, focused on scalable and maintainable systems.<br>
+📦 Practical experience with real projects involving AI pipelines, automation and data-driven systems.<br>
+🚀 Goal: become a Machine Learning Engineer capable of designing production-grade AI solutions.
 </p>
 
 ---
@@ -25,45 +26,45 @@
 </div>
 
 <p align="center">
-<b>475+ contributions in the last year</b> • High consistency • Production-oriented projects
+<b>475+ contributions in the last year</b> • Consistent learning • Applied academic and practical projects
 </p>
 
 ---
 
-## 🧠 Skill Focus (Based on Real Usage)
+## 🧠 Skill Focus (Learning & Real Usage)
 
-### 🤖 Artificial Intelligence — 40%
-- AI Agents architecture (tool-using, multi-step, goal-driven)
-- Prompt Engineering (structured, chain-of-thought aware)
-- LLM integration (APIs, orchestration, context control)
-- Intelligent automation for business workflows
+### 🤖 Machine Learning & AI — 45%
+- Machine learning fundamentals (supervised / unsupervised learning)
+- Model training, evaluation and experimentation
+- Feature engineering and data preprocessing
+- AI agents and LLM-based systems
+- Prompt engineering and model integration
 
 ---
 
 ### ☕ Java — 25%
 - Backend development
-- Clean Architecture & OOP
-- Business, industrial and automation-oriented systems
+- OOP, clean architecture and design patterns
+- Systems focused on scalability and reliability
 
 ---
 
-### 🐍 Python — 25%
-- Automation scripts and bots
-- AI pipelines and data processing
-- API and marketplace integrations
+### 🐍 Python — 20%
+- Data processing and automation
+- ML experiments and pipelines
+- API integration and scripting
 
 ---
 
 ### 🗄️ Databases & SQL — 7%
 - Data modeling
-- Query optimization
-- Persistence layers
+- Queries and persistence layers
 
 ---
 
 ### 🌐 Web (JavaScript / HTML / CSS) — 3%
-- Web interfaces for AI systems
-- Dashboards and support layers
+- Web interfaces for ML and AI systems
+- Visualization and support layers
 
 ---
 
@@ -83,7 +84,7 @@
 ## 🌐 Connect with me
 <div align="left">
   <a href="https://www.youtube.com/@MatheusDesenvolvedor-x2s" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-IA%20%26%20Code-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-ML%20%26%20AI%20Engineering-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/matheus-silva-0b177b333" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Silva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -95,4 +96,3 @@
 <img
 src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
 alt="Contribution Snake Animation"/>
-
