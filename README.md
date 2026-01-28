@@ -1,12 +1,12 @@
 <h2 align="left">
-👋 Hi, my name is Matheus Silva — AI Developer focused on Intelligent Agents
+👋 Hi, I'm Matheus Silva — AI Engineer focused on Intelligent Agents & Automation
 </h2>
 
 <p align="left">
-🧠 Building <b>AI Agents</b>, intelligent automations and applied AI systems.<br>
+🧠 Designing and building <b>AI Agents</b>, intelligent automations and applied AI systems.<br>
 ☕ Strong backend mindset with <b>Java</b> and <b>Python</b>.<br>
-📦 Hands-on experience with real projects in AI consulting, automation and marketplaces.<br>
-🚀 Goal: scalable AI products that solve real problems.
+📦 Hands-on experience delivering real-world solutions: AI consulting, automation pipelines and marketplaces.<br>
+🚀 Focused on scalable AI products that solve real business problems.
 </p>
 
 ---
@@ -25,46 +25,47 @@
 </div>
 
 <p align="center">
-<b>475 contributions in the last year</b> • High commit consistency • Real-world projects
+<b>475+ contributions in the last year</b> • High consistency • Production-oriented projects
 </p>
 
 ---
 
-## 🧠 Core Skill Distribution (Real Usage)
+## 🧠 Skill Focus (Based on Real Usage)
 
 ### 🤖 Artificial Intelligence — 40%
-- AI Agents architecture  
-- Prompt Engineering  
-- LLM integration  
-- Intelligent automation  
+- AI Agents architecture (tool-using, multi-step, goal-driven)
+- Prompt Engineering (structured, chain-of-thought aware)
+- LLM integration (APIs, orchestration, context control)
+- Intelligent automation for business workflows
 
 ---
 
 ### ☕ Java — 25%
-- Backend development  
-- OOP & clean architecture  
-- Business and industrial systems  
+- Backend development
+- Clean Architecture & OOP
+- Business, industrial and automation-oriented systems
 
 ---
 
 ### 🐍 Python — 25%
-- Automation scripts  
-- AI pipelines  
-- Marketplace integrations  
+- Automation scripts and bots
+- AI pipelines and data processing
+- API and marketplace integrations
 
 ---
 
-### 🗄️ SQL & Databases — 7%
-- Data modeling  
-- Queries  
-- Persistence  
+### 🗄️ Databases & SQL — 7%
+- Data modeling
+- Query optimization
+- Persistence layers
 
 ---
 
-### 🌐 JavaScript & Web — 3%
-- Web interfaces  
-- HTML/CSS support
-- Javascript
+### 🌐 Web (JavaScript / HTML / CSS) — 3%
+- Web interfaces for AI systems
+- Dashboards and support layers
+
+---
 
 ## 🛠️ Tech Stack
 <div align="left">
@@ -94,3 +95,4 @@
 <img
 src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
 alt="Contribution Snake Animation"/>
+
