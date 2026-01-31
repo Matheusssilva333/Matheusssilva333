@@ -65,8 +65,8 @@
 
 ## 🌐 Connect with me
 <div align="left">
-  <a href="https://www.youtube.com/@MatheusDesenvolvedor-x2s" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Machine%20Learning%20with%20Python-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/matheus-silva-0b177b333" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Silva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
 
@@ -75,3 +75,4 @@
 <img
 src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
 alt="Contribution Snake Animation"/>
+
