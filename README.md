@@ -10,11 +10,6 @@
 🚀 Goal: become a Machine Learning Engineer capable of developing production-ready ML solutions with Python.
 </p>
 
-<p align="center">
-<b>475+ contributions in the last year</b> • Consistent ML-focused study • Applied projects
-</p>
-
----
 
 ## 🧠 Focus Areas (Python & Machine Learning)
 
