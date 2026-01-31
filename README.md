@@ -31,28 +31,28 @@
 
 ---
 
-## 🧠 Skill Focus (Python & Machine Learning)
+## 🧠 Focus Areas (Python & Machine Learning)
 
-### 🤖 Machine Learning — 55%
-- Supervised and unsupervised learning
-- Model training, evaluation and validation
-- Feature engineering and data preprocessing
-- Experimentation and result analysis
-- Applied AI and ML-based systems
-
----
-
-### 🐍 Python — 35%
-- Data processing and analysis
-- ML experiments and pipelines
-- Automation scripts for data workflows
-- API integration for ML systems
+### 🤖 Machine Learning
+- Supervised and unsupervised learning  
+- Model training, evaluation and validation  
+- Feature engineering and data preprocessing  
+- Experimentation and result analysis  
+- Applied ML systems  
 
 ---
 
-### 🗄️ Data & SQL — 10%
-- Data modeling
-- Queries for analysis and persistence
+### 🐍 Python
+- Data processing and analysis  
+- ML experiments and pipelines  
+- Automation for data workflows  
+- API integration for ML systems  
+
+---
+
+### 🗄️ Data & SQL
+- Data modeling  
+- Analytical and persistence queries  
 
 ---
 
