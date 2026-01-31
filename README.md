@@ -10,21 +10,6 @@
 🚀 Goal: become a Machine Learning Engineer capable of developing production-ready ML solutions with Python.
 </p>
 
----
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Matheusssilva333&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-    height="150"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusssilva333&layout=compact&theme=dracula"
-    height="150"
-    alt="Top languages"
-  />
-</div>
-
 <p align="center">
 <b>475+ contributions in the last year</b> • Consistent ML-focused study • Applied projects
 </p>
