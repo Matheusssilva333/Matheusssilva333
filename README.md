@@ -1,13 +1,13 @@
 <h2 align="left">
-👋 Hi, I'm Matheus Silva — Machine Learning Engineering Student focused on AI Systems
+👋 Hi, I'm Matheus Silva — Machine Learning Engineering Student (Python-focused)
 </h2>
 
 <p align="left">
 🎓 Student of <b>Systems Analysis and Development</b>, specializing in <b>Machine Learning Engineering</b>.<br>
-🧠 Building and studying <b>machine learning systems</b>, AI agents and intelligent automations.<br>
-☕ Strong backend foundation with <b>Java</b> and <b>Python</b>, focused on scalable and maintainable systems.<br>
-📦 Practical experience with real projects involving AI pipelines, automation and data-driven systems.<br>
-🚀 Goal: become a Machine Learning Engineer capable of designing production-grade AI solutions.
+🐍 Python-first approach to <b>machine learning systems</b> and data-driven applications.<br>
+🧠 Studying and building end-to-end ML workflows: data preparation, training, evaluation and experimentation.<br>
+📦 Practical experience with ML pipelines, automation and applied AI projects.<br>
+🚀 Goal: become a Machine Learning Engineer capable of developing production-ready ML solutions with Python.
 </p>
 
 ---
@@ -26,57 +26,39 @@
 </div>
 
 <p align="center">
-<b>475+ contributions in the last year</b> • Consistent learning • Applied academic and practical projects
+<b>475+ contributions in the last year</b> • Consistent ML-focused study • Applied projects
 </p>
 
 ---
 
-## 🧠 Skill Focus (Learning & Real Usage)
+## 🧠 Skill Focus (Python & Machine Learning)
 
-### 🤖 Machine Learning & AI — 45%
-- Machine learning fundamentals (supervised / unsupervised learning)
-- Model training, evaluation and experimentation
+### 🤖 Machine Learning — 55%
+- Supervised and unsupervised learning
+- Model training, evaluation and validation
 - Feature engineering and data preprocessing
-- AI agents and LLM-based systems
-- Prompt engineering and model integration
+- Experimentation and result analysis
+- Applied AI and ML-based systems
 
 ---
 
-### ☕ Java — 25%
-- Backend development
-- OOP, clean architecture and design patterns
-- Systems focused on scalability and reliability
-
----
-
-### 🐍 Python — 20%
-- Data processing and automation
+### 🐍 Python — 35%
+- Data processing and analysis
 - ML experiments and pipelines
-- API integration and scripting
+- Automation scripts for data workflows
+- API integration for ML systems
 
 ---
 
-### 🗄️ Databases & SQL — 7%
+### 🗄️ Data & SQL — 10%
 - Data modeling
-- Queries and persistence layers
-
----
-
-### 🌐 Web (JavaScript / HTML / CSS) — 3%
-- Web interfaces for ML and AI systems
-- Visualization and support layers
+- Queries for analysis and persistence
 
 ---
 
 ## 🛠️ Tech Stack
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32"/>
-  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32"/>
 </div>
 
 ---
@@ -84,10 +66,7 @@
 ## 🌐 Connect with me
 <div align="left">
   <a href="https://www.youtube.com/@MatheusDesenvolvedor-x2s" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-ML%20%26%20AI%20Engineering-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/matheus-silva-0b177b333" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Silva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-Machine%20Learning%20with%20Python-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </div>
 
