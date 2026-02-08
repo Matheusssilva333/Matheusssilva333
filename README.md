@@ -56,3 +56,8 @@
 src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
 alt="Contribution Snake Animation"/>
 
+
+<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/7613a6d3-4578-4ac9-a8e6-5de2ae37027e" /> <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/3c37170c-1171-4b63-baa3-00d33e442563" />
+<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/adfc0775-f91c-4d57-a18e-a0f77b2b7be8" />
+
+
