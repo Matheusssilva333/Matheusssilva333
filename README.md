@@ -38,7 +38,7 @@
 
 ## 🛠️ Tech Stack
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
+  <img width="72" height="96" alt="image" src="https://github.com/user-attachments/assets/91eb9aca-5f1c-43ff-ab2e-d6d4defeb1b0" />
   <img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/3e040cd1-e0ae-45d9-8a14-7e20ecba4037" />
 <img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/cad92440-8459-4d41-a90a-023808f35a29" />
 <img width="72" height="96" alt="image" src="https://github.com/user-attachments/assets/b75255b8-a738-4ba1-a9c4-342d3617fe49" />
