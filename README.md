@@ -1,9 +1,9 @@
 <h2 align="left">
-👋 Hi, I'm Matheus Silva — Machine Learning Engineering Student (Python-focused)
+👋 Hi, I'm Matheus Silva — Data and Machine Learning Engineering Student (Python-focused)
 </h2>
 
 <p align="left">
-🎓 Student of <b>Systems Analysis and Development</b>, specializing in <b>Machine Learning Engineering</b>.<br>
+🎓 Student of <b>Systems Analysis and Development</b>, specializing in <b>Data and Machine Learning Engineering</b>.<br>
 🐍 Python-first approach to <b>machine learning systems</b> and data-driven applications.<br>
 🧠 Studying and building end-to-end ML workflows: data preparation, training, evaluation and experimentation.<br>
 📦 Practical experience with ML pipelines, automation and applied AI projects.<br>
