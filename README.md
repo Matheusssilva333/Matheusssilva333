@@ -1,42 +1,55 @@
 <h2 align="left">
-👋 Hi, I'm Matheus Silva — Data and Machine Learning Engineering Student (Python-focused)
+👋 Olá, eu sou Matheus Silva — Estudante de Dados e Engenharia de Machine Learning
 </h2>
 
 <p align="left">
-🎓 Student of <b>Systems Analysis and Development</b>, specializing in <b>Data and Machine Learning Engineering</b>.<br>
-🐍 Python-first approach to <b>machine learning systems</b> and data-driven applications.<br>
-🧠 Studying and building end-to-end ML workflows: data preparation, training, evaluation and experimentation.<br>
-📦 Practical experience with ML pipelines, automation and applied AI projects.<br>
-🚀 Goal: become a Machine Learning Engineer capable of developing production-ready ML solutions with Python.
+🎓 Estudante de <b>Análise e Desenvolvimento de Sistemas</b>, buscando  especialização em <b>Dados e Engenharia de Machine Learning</b>.<br>
+🐍 Abordagem centrada em Python para <b>sistemas de machine learning</b> e aplicações orientadas por dados.<br>
+🧠 Estudando e construindo fluxos completos de ML: preparação de dados, treinamento, avaliação e experimentação.<br>
+📦 Experiência prática com pipelines de ML, automação e projetos aplicados de IA.<br>
+🚀 Objetivo: tornar-me um Engenheiro de Machine Learning capaz de desenvolver soluções de ML prontas para produção usando Python.
 </p>
 
+## 🧠 Habilidades técnicas
 
-## 🧠 Focus Areas (Python & Machine Learning)
-
-### 🤖 Machine Learning
-- Supervised and unsupervised learning  
-- Model training, evaluation and validation  
-- Feature engineering and data preprocessing  
-- Experimentation and result analysis  
-- Applied ML systems  
+### 🤖 N8N
+- Desenvolvimento de sistemas inteligentes
+- Treinamento, avaliação e validação de modelos
 
 ---
 
 ### 🐍 Python
-- Data processing and analysis  
-- ML experiments and pipelines  
-- Automation for data workflows  
-- API integration for ML systems  
+- Processamento e análise de dados  
+- Experimentos e pipelines de ML  
+- Automação de fluxos de dados  
+- Integração de APIs para sistemas de ML  
 
 ---
 
-### 🗄️ Data & SQL
-- Data modeling  
-- Analytical and persistence queries  
+### 🗃 Programação orientada a objetos (C# e Java)
+- Desenvolvimento de sistemas corporativos
+- Backend
+  
+---
+
+### 💡 Javascript
+- Front End
+  
+---
+
+### 🛡️ Cibersegurança
+- Pentest (identificação de vulnerabilidades em banco de dados)
+- Kali Linux
 
 ---
 
-## 🛠️ Tech Stack
+### 🗄️ Dados & SQL
+- Modelagem de dados  
+- Consultas analíticas e de persistência  
+
+---
+
+## 🛠️ Stack Tecnológica
 <div align="left">
   <img width="72" height="96" alt="image" src="https://github.com/user-attachments/assets/91eb9aca-5f1c-43ff-ab2e-d6d4defeb1b0" />
   <img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/3e040cd1-e0ae-45d9-8a14-7e20ecba4037" />
@@ -44,20 +57,9 @@
 <img width="72" height="96" alt="image" src="https://github.com/user-attachments/assets/b75255b8-a738-4ba1-a9c4-342d3617fe49" />
   <img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/00bedf85-4ebf-45d4-87eb-afef5e4b0474" />
 <img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/3bdf6a82-3cae-4018-b55c-49a078dbafdb" />
-
 </div>
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Conecte-se comigo
 <div align="left">
-  <a href="https://www.linkedin.com/in/matheus-silva-0b177b333" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Silva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
-
----
-
-<img
-src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-alt="Contribution Snake Animation"/>
