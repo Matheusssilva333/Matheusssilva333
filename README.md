@@ -38,7 +38,9 @@
 ---
 
 ### 🛡️ Cibersegurança
-- Pentest (identificação de vulnerabilidades em banco de dados)
+- Pentest
+- Nmap
+- SQLmap
 - Kali Linux
 - Shodan
 
