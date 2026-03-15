@@ -32,8 +32,11 @@
   
 ---
 
-### 💡 Javascript
-- Front End
+### 💡 Javascript/HTML/CSS
+- Interfaces web
+- Design Web
+- Estruturação de sites
+  
   
 ---
 
