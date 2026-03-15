@@ -53,7 +53,7 @@
 ---
 
 ## 🌐 Conecte-se comigo
-<a href="www.linkedin.com/in/matheus-silva-0b177b333">Linkedin</a>
+<a href="https://www.linkedin.com/in/matheus-silva-0b177b333/">Linkedin</a>
 <a href="https://www.instagram.com/matheus___dev/">Instagram</a>
 
 
