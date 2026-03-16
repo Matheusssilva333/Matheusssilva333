@@ -26,6 +26,12 @@
 
 ---
 
+### 🧑‍💻 Hospedagem e segurança em Nuvem
+- Cloudflare 
+- Render 
+
+---
+
 ### 🗃 Programação orientada a objetos (C# e Java)
 - Desenvolvimento de sistemas corporativos
 - Backend
