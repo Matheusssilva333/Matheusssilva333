@@ -18,7 +18,7 @@
 
 ---
 
-### 🐍 Python
+### 🐍 Programação Python
 - Processamento e análise de dados  
 - Experimentos e pipelines de ML  
 - Automação de fluxos de dados  
@@ -32,7 +32,7 @@
 
 ---
 
-### 🗃 Programação orientada a objetos (C# e Java)
+### 🗃 Programação Java
 - Desenvolvimento de sistemas corporativos
 - Backend
   
