@@ -12,49 +12,17 @@
 
 ## 🧠 Habilidades técnicas
 
-### 🤖 N8N
-- Desenvolvimento de sistemas inteligentes
-- Treinamento, avaliação e validação de modelos
-
----
-
 ### 🐍 Programação Python
 - Processamento e análise de dados  
 - Experimentos e pipelines de ML  
 - Automação de fluxos de dados  
 - Integração de APIs para sistemas de ML  
 
----
-
-### 🧑‍💻 Hospedagem e segurança em Nuvem
-- Cloudflare 
-- Render 
-
----
-
 ### 🗃 Programação Java
 - Desenvolvimento de sistemas corporativos
 - Backend
+
   
----
-
-### 💡 Javascript/HTML/CSS
-- Interfaces web
-- Design Web
-- Estruturação de sites
-  
-  
----
-
-### 🛡️ Cibersegurança
-- Pentest
-- Nmap
-- SQLmap
-- Kali Linux
-- Shodan
-
----
-
 ### 🗄️ Dados & SQL
 - Modelagem de dados  
 - Consultas analíticas e de persistência  
