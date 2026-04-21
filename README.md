@@ -1,5 +1,5 @@
 <h2 align="left">
-👋 Olá, eu sou Matheus Silva — Estudante de Dados e Engenharia de Machine Learning
+👋 Olá, eu sou Matheus Silva
 </h2>
 
 <p align="left">
