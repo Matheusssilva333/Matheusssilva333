@@ -29,7 +29,7 @@
 ---
 
 ## 🌐 Conecte-se comigo
-<a href="https://www.linkedin.com/in/matheus-silva-0b177b333/">Linkedin</a>
+<a href="https://www.linkedin.com/in/matheus-de-souza-0b177b333/?skipRedirect=true">Linkedin</a>
 
 
 
