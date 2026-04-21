@@ -5,8 +5,6 @@
 <p align="left">
 🎓 Estudante de <b>Análise e Desenvolvimento de Sistemas</b>, buscando  especialização em <b>Dados e Engenharia de Machine Learning</b>.<br>
 🐍 Abordagem centrada em Python para <b>sistemas de machine learning</b> e aplicações orientadas por dados.<br>
-🧠 Estudando e construindo fluxos completos de ML: preparação de dados, treinamento, avaliação e experimentação.<br>
-📦 Experiência prática com pipelines de ML, automação e projetos aplicados de IA.<br>
 🚀 Objetivo: tornar-me um Engenheiro de Machine Learning capaz de desenvolver soluções de ML prontas para produção usando Python.
 </p>
 
