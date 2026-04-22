@@ -28,7 +28,8 @@
 
 
 ## 🌐 Conecte-se comigo
-<a href="https://www.linkedin.com/in/matheus-de-souza-0b177b333/?skipRedirect=true">Linkedin</a>
+<a href="https://www.linkedin.com/in/matheus-de-souza-0b177b333/?skipRedirect=true">Linkedin</a> 
+<p>matheus.dev11@outlook.com</p>
 
 
 
