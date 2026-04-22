@@ -26,10 +26,10 @@
 - Modelagem de dados  
 - Consultas analíticas e de persistência  
 
----
 
 ## 🌐 Conecte-se comigo
 <a href="https://www.linkedin.com/in/matheus-de-souza-0b177b333/?skipRedirect=true">Linkedin</a>
+
 
 
 
