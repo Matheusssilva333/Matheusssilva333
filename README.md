@@ -8,7 +8,6 @@
 🚀 Objetivo: tornar-me um Engenheiro de Machine Learning capaz de desenvolver soluções de ML prontas para produção usando Python.
 </p>
 
-
 ## 🧠 Habilidades técnicas
 
 ### 🐍 Programação Python
