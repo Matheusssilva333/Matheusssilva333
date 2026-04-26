@@ -10,21 +10,13 @@
 
 ## 🧠 Habilidades técnicas
 
-### 🐍 Programação Python
-- Processamento e análise de dados  
-- Experimentos e pipelines de ML  
-- Automação de fluxos de dados  
-- Integração de APIs para sistemas de ML  
+# Linguagens de programação 
 
-### 🗃 Programação Java
-- Desenvolvimento de sistemas corporativos
-- Backend
+- Python 
 
-  
-### 🗄️ Dados & SQL
-- Modelagem de dados  
-- Consultas analíticas e de persistência  
+- Java
 
+- C#
 
 ## 🌐 Conecte-se comigo
 <p>matheus.dev11@outlook.com</p>
