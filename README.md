@@ -10,7 +10,7 @@
 
 ## 🧠 Habilidades técnicas
 
-# Linguagens de programação 
+## Linguagens de programação 
 
 - Python 
 
