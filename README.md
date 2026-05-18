@@ -14,10 +14,6 @@
 
 - Python 
 
-- Java
-
-- C#
-
 ## 🌐 Conecte-se comigo
 <p>matheus.dev11@outlook.com</p>
 
