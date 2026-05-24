@@ -3,7 +3,7 @@ Eu faço faculdade de análise e desenvolvimento de sistemas na Universidade San
 Eu sou um estudante apaixonado por tecnologia, que deseja construir sistemas inteligentes e me destacar no mercado de programação.
 Meu objetivo atual é encontrar estágio em desenvolvimento backend e futuramente se tornar um engenheiro de machine learning.
 
-## 
+## Minha stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
