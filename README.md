@@ -1,6 +1,6 @@
 👋 Olá, eu sou o Matheus
 
-Estudante de Análise e Desenvolvimento de Sistemas na Universidade Santa Cecília, focado em backend e interessado em machine learning.
+Estudante de Análise e Desenvolvimento de Sistemas na Universidade Santa Cecília, buscando estágio em Suporte Técnico/Service Desk para aplicar conhecimentos em lógica e automação na resolução de problemas de TI, sou focado em backend e interessado em machine learning.
 
 🧰 Tech stack
 <div align="left">
