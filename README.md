@@ -1,8 +1,8 @@
 # Olá, eu sou Matheus
 
-💼 Auxiliar Técnico de Planejamento
+💼 Profissional da área de planejamento e engenharia
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
+🎓 Estudante de Engenharia de Software 
 
 💻 Desenvolvedor focado em Python, Java e SQL
 
