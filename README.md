@@ -2,7 +2,7 @@
 
 💼 Profissional da área de planejamento e projetos 
 
-📚 Graduando em análise e desenvolvimento de sistemas (4 semestre)
+📚 Graduando em análise e desenvolvimento de sistemas (4° semestre)
 
 🎯 Em busca de estágio em suporte de TI
 
