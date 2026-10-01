@@ -7,3 +7,12 @@
 🎯 Em busca de estágio em suporte de TI
 
 💻 Focado em projetos de automação e análise de dados
+
+📈 Stack:
+
+Tecnologias que estou estudando:
+- Python 
+- Javascript 
+- Angular CLI
+
+
