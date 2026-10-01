@@ -10,9 +10,19 @@
 
 📈 Stack:
 
+Tecnologias que já pratiquei/estudei:
+- Java
+- Javascript 
+- HTML
+- CSS
+- SAP básico 
+- Gemini CLI | Antigravity 
+- Linux via WSL
+
 Tecnologias que estou estudando:
 - Python 
 - Javascript 
 - Angular CLI
+
 
 
