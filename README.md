@@ -7,7 +7,7 @@
 💻 Focado em projetos de automação e análise de dados para indústria
 
 ⚙️Setores e funções onde trabalhei:
-- Analista de SMS na RPBC | Escopo Tubulações | Setor Petroquimico
+- SMS na RPBC | Escopo Tubulações | Setor Petroquimico
 - Planejador de manutenção na RPBC | Escopo Permutadores | Setor Petroquimico
 - Caldeireiro na RPBC | Equipe das Torres | Setor Petroquimico
 - Jovem aprendiz na Franciscon Infraestrutura | Setor Construção Civil (Infraestrutura)
