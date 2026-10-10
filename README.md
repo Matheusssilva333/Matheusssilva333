@@ -1,16 +1,21 @@
 # Olá, eu sou Matheus
 
-💼 Profissional da área de planejamento e projetos 
+💼 Analista de sistemas
 
-📚 Graduando em análise e desenvolvimento de sistemas (4° semestre)
+🎯 Em busca de oportunidades de analista de sistemas trainee 
 
-🎯 Em busca de estágio em suporte de TI
+💻 Focado em projetos de automação e análise de dados para indústria
 
-💻 Focado em projetos de automação e análise de dados
+⚙️Setores e funções onde trabalhei:
+- Analista de SMS na RPBC | Escopo Tubulações | Setor Petroquimico
+- Planejador de manutenção na RPBC | Escopo Permutadores | Setor Petroquimico
+- Caldeireiro na RPBC | Equipe das Torres | Setor Petroquimico
+- Jovem aprendiz na Franciscon Infraestrutura | Setor Construção Civil (Infraestrutura)
 
 📈 Stack:
 
 Tecnologias que já pratiquei/estudei:
+- SAP
 - Java
 - Javascript 
 - HTML
@@ -20,7 +25,7 @@ Tecnologias que já pratiquei/estudei:
 - Linux via WSL
 
 Tecnologias que estou estudando:
-- Python 
+- Python
 - Javascript 
 - Angular CLI
 
