@@ -21,7 +21,7 @@ Tecnologias que já pratiquei/estudei:
 - HTML
 - CSS
 - SAP básico 
-- Gemini CLI | Antigravity 
+- Gemini CLI
 - Linux via WSL
 
 Tecnologias que estou estudando:
