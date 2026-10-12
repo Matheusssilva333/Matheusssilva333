@@ -4,7 +4,7 @@
 
 🎯 Em busca de oportunidades de analista de sistemas trainee 
 
-💻 Focado em projetos de automação e análise de dados para indústria
+💻 Focado em projetos de automação e análise de dados
 
 ⚙️Setores e funções onde trabalhei:
 - SMS na RPBC | Escopo Tubulações | Setor Petroquimico
