@@ -1,6 +1,6 @@
 # Olá, eu sou Matheus
 
-💼 Analista de sistemas | Em treinamento de automação industrial
+💼 Analista de sistemas 
 
 💻 Focado em projetos de automação, análise de dados e gestão de negócios digitais
 
